@@ -12,7 +12,7 @@ Este proyecto es una implementación del clásico juego **Buscaminas** en consol
 - ✅ Generación aleatoria de minas.
 - ✅ Interfaz amigable en consola.
 - ✅ **Pruebas Unitarias** con JUnit5.
-- ⚠️ [Por implementar] Guardado/carga de partidas desde archivos.
+  
 
 ---
 
@@ -42,8 +42,7 @@ buscaminas/
 
 1. Clona este repositorio:
 
-   ```bash
-   git clone https://github.com/tuusuario/BuscaminasJava.git
+ 
    
 
 Abre el proyecto en Eclipse o tu IDE favorito.
@@ -82,4 +81,4 @@ SRP (Responsabilidad única): cada clase tiene una única responsabilidad.
 
 OCP (Abierto/cerrado): se puede extender el comportamiento del tablero sin modificarlo.
 
-✅ Clean Code: nombres descriptivos, métodos cortos, claridad en flujo.
+✅ CODIGO LIMPIO: nombres descriptivos, métodos cortos, claridad en flujo.
